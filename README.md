@@ -56,14 +56,4 @@ This project is implemented in **Python** and relies on the following libraries:
 - scikit-learn  
   - KMeans (clustering)
   - LinearRegression
-
----
-
-## Installation
-
-Clone the repository and install the required packages:
-
-```bash
-git clone https://github.com/your-username/restaurants-in-malta.git
-cd restaurants-in-malta
-pip install pandas numpy matplotlib seaborn folium geopy scikit-learn requests
+ts
